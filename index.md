@@ -3,9 +3,11 @@
 
 <head>
 <title> Hello World </title>
+<meta charset="UTF-8"
 <style>
 h2 {
   color: blue;
+  font-size: 12px;
 }
 </head>
 
