@@ -6,7 +6,7 @@
 <meta charset="UTF-8"
 <style>
 h2 {
-  color: blue;
+  color: red;
   font-size: 12px;
 }
 </head>
