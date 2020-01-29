@@ -1,11 +1,17 @@
-<style>
-  h2 {
-    color: blue;
-  }
-
-</style>
-
+<!DOCTYPE html>
 <html>
-<h1> Hello World </h1>
+
+<head>
+<title> Hello World </title>
+<style>
+h2 {
+  color: blue;
+}
+</head>
+
+<body>
 <h2>My name is Jeffrey Lunt</h2>
+</body>
+
+
 </html>
