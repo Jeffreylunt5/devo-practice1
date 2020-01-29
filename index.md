@@ -1,4 +1,4 @@
 <html>
 <h1> Hello World </h1>
-<p>My name is Jeffrey Lunt</p>
+<h2>My name is Jeffrey Lunt</h2>
 </html>
