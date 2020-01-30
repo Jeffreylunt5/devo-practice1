@@ -1,11 +1,11 @@
 h1 {
-  color: red;
+  color: purple;
 }
 div {
   margin: auto;
 }
 p {
-  color: purple;
+  color: black;
   font-size: 24;
   font-family: monospace;
 }
