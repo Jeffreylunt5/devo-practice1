@@ -5,6 +5,7 @@ div {
   margin: auto;
 }
 p {
+  color: purple;
   font-size: 24;
   font-family: monospace;
 }
