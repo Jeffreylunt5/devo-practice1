@@ -2,7 +2,7 @@ h1 {
   color: purple;
 }
 div {
-  margin: center;
+  margin: 0 auto;
 }
 p {
   color: black;
