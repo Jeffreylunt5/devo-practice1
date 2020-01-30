@@ -4,3 +4,7 @@ h1 {
 div {
   margin: auto;
 }
+p {
+  font-size: 24;
+  font-family: cursive
+}
